@@ -1,0 +1,10 @@
+ID,Name,Age,Gender,Country,Salary
+1,John,28,Male,USA,50000
+2,Mary,32,Female,Canada,60000
+3,Bob,45,Male,UK,70000
+4,Alice,,Female,USA,65000
+5,Tom,38,Male,Canada,
+6,Linda,27,Female,UK,48000
+7,James,35,Male,USA,52000
+8,Emma,29,Female,,55000
+
